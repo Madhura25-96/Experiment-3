@@ -14,6 +14,7 @@ The theory associated with Experiment-3 is divided into two parts:
 ## 1 Encoding
 
 We will now describe the encoding of Hamming code through a diagram of 3 circles as shown in Figure
+![alt text](https://github.com/Madhura25-96/Experiment-3/blob/main/exp3image.png)
 
 
 
